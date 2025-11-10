@@ -147,8 +147,3 @@ AI101 | Delhi -> Mumbai | 2025-11-10 10:30:00 | 2025-11-10 12:45:00 | 120 | 4500
 
 ---
 
-## 🧑‍💻 Developer Info
-**Author:** Shubham (Roll No: 23BCS13238)  
-**Batch:** Sigma Batch Managers, Apna College  
-**Database:** MySQL  
-**Language:** C (GCC)
